@@ -1,0 +1,5 @@
+.idea
+jte-classes
+node_modules
+target
+src/main/resources/tailwind.css
